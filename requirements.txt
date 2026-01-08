@@ -1,0 +1,19 @@
+# Requirements for Vehicle Detection and Classification System
+
+# Core libraries
+opencv-python==4.8.1.78
+numpy==1.24.3
+
+# YOLO for vehicle detection
+ultralytics==8.0.196
+
+# Additional utilities
+Pillow==10.1.0
+matplotlib==3.7.1
+
+# Optional for better performance
+torch==2.1.0
+torchvision==0.16.0
+
+# For data handling
+pandas==2.1.1
